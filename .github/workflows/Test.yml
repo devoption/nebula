@@ -1,0 +1,18 @@
+name: Unit Test
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+        - uses: actions/checkout@v3
+
+        - name: Setup PHP Action
+          uses: shivammathur/setup-php@v2
+
+        - name: Install Dependencies
+          run: composer install
+          
+        - name: Run Unit Tests
+          run: php nebula test
