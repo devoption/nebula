@@ -6,9 +6,10 @@ jobs:
   unit-test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Setup PHP Action
+      - name: Setup PHP
         uses: shivammathur/setup-php@v2
 
       - name: Install Dependencies
