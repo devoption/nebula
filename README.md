@@ -14,3 +14,7 @@ Before you begin, make sure you have the following installed:
 ```sh
 composer create-project devoption/nebula
 ```
+
+## Getting Started
+
+More details coming soon!
