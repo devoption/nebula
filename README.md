@@ -18,3 +18,7 @@ composer create-project devoption/nebula
 ## Getting Started
 
 More details coming soon!
+
+## Contributing to Nebula
+
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to contribute to this project.
