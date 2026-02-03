@@ -1,0 +1,17 @@
+{
+    "name": "devoption/nebula",
+    "description": "Nebula is an AI-infused software factory for Laravel application and package development",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DevOption Engineering",
+            "email": "engineering@devoption.io"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
