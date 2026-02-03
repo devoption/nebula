@@ -25,4 +25,4 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to c
 
 ## License
 
-More details coming soon!
+Nebula is open-source software licensed under the [MIT License](LICENSE).
