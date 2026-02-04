@@ -1,6 +1,6 @@
 # Nebula
 
-Nebula is an AI infused software factory for Laravel development.
+Nebula is an AI-infused software factory for Laravel application and package development.
 
 ## Installation
 
